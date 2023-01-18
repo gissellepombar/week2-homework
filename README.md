@@ -9,7 +9,7 @@
 ## Elements
     MySQL
 
-[Repo] ().
+[Repo](https://github.com/gissellepombar/week2-homework/blob/main/D02-03-sql-cuisines.js)
 
 ## 2) Hour to Seconds Converter
 ![Screen shot](./Images/D02-02.webp)
@@ -21,7 +21,7 @@
 ## Elements
     Functions
 
-[Repo] ().
+[Repo](https://github.com/gissellepombar/week2-homework/blob/main/D02-02-hour-conversion.js)
 
 ## 1) Minute to Seconds Converter
 ![Screen shot](./Images/D02-01.webp)
@@ -33,4 +33,4 @@
 ## Elements
     Functions
 
-[Repo] ().
+[Repo](https://github.com/gissellepombar/week2-homework/blob/main/D02-01-minute-conversion.js)
